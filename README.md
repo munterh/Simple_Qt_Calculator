@@ -7,7 +7,7 @@ The project aims to provide clean, well-structured code for a calculator with a 
 ## Resources
 
 **Python Version**: 3.10  
-**Packages**: PyQt6, functools
+**Packages**: PyQt6, functools  
 **Markdown Guide**: [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax)
 
 ## Structure of the Code
