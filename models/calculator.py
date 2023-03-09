@@ -34,15 +34,6 @@ class Calculator:
             case "clear": self.clear()
             case "equal": self.equal()
             case "digit": self.digit()
-
-        # print()
-        # print("Main Field:", self.main_field_str)    
-        # print("Star_Slash_Field: ", self.star_slash_field)
-        # print("Plus_Minus_Field: ", self.plus_minus_field)
-        # print("Current connective: ",self.current_connective)
-        # print("Last connective: ",self.last_connective)
-        # print("Outer connective:",self.outer_connective)
-        # print()
         
     def plus_minus_equal(self):
         result = eval(self.main_field_str)
